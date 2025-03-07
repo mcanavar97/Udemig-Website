@@ -13,3 +13,4 @@ CSS: Style and design.
 Bootstrap: A udemig website has been designed with the ease provided by the bootstrap library.
 
 # Preview
+![](UdemigWebSite-BS-Gif.gif)
