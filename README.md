@@ -6,11 +6,11 @@ In this project, a great Udemiig website was created using html, css and bootstr
 Responsive design.
 
 # 🛠️ Technologies Used
-HTML: Structural editing and content creation.
+- HTML: Structural editing and content creation.
 
-CSS: Style and design.
+- CSS: Style and design.
 
-Bootstrap: A udemig website has been designed with the ease provided by the bootstrap library.
+- Bootstrap: A udemig website has been designed with the ease provided by the bootstrap library.
 
 # Preview
 ![](UdemigWebSite-BS-Gif.gif)
